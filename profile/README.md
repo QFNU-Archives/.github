@@ -10,3 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+本组织致力于收集QFNU优秀学子的优秀项目，以及可以帮助学习的非QFNU优秀项目
+
+加入本组织请给邮箱：[mailto:w1ndys@outlook.com](w1ndys@outlook.com) 发送你的Github主页链接，标题为：`申请加入QFNU-Archives`
